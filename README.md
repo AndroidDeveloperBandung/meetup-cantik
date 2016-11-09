@@ -9,3 +9,4 @@ Collections of all things that discussed on ADB meetups
 
 ### Upcoming Discussions
 - Introduction to React Native - [esafirm](https://github.com/esafirm/)
+- Continuous Integration for Mobile Application - [faerulsalamun](https://github.com/faerulsalamun) & [WildanGarviandi](https://github.com/WildanGarviandi)
