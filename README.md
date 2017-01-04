@@ -7,8 +7,13 @@ Collections of all things that discussed on ADB meetups
 ### Upcoming Discussions
 
 - Discussion about Firebase Technology for Android - [derohimat](https://github.com/derohimat)
+- Discussion about "Develop Aplikasi Android dengan Kotlin" - [budioktaviyan](https://github.com/budioktaviyan)
 
-### Discussions
+## Discussions
+### #1Discussion
+
+https://www.eventbrite.com/e/android-developer-bandung-1discussion-tickets-29398092486#
+
 - Introduction to React Native - [esafirm](https://github.com/esafirm/)
   - [Slides](https://cdn.rawgit.com/esafirm/esafirm.github.io/master/slide-rn-intro.html)
   - [Demo](https://github.com/esafirm/React-Native-Intro)
@@ -22,5 +27,3 @@ Collections of all things that discussed on ADB meetups
 - Android Testing with Calabash - [WildanGarviandi](https://github.com/WildanGarviandi)
   - [Slides](http://www.slideshare.net/kellinreaver/android-testing-calabash)
   - [Calabash Home Page](http://calaba.sh/)
-
-
