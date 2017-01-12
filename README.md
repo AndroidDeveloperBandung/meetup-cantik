@@ -6,6 +6,8 @@ Collections of all things that discussed on ADB meetups
 
 ### Upcoming Discussions
 
+https://www.eventbrite.com/e/android-developer-bandung-2discussion-tickets-31117164276
+
 - Discussion about Firebase Technology for Android - [derohimat](https://github.com/derohimat)
 - Discussion about "Develop Aplikasi Android dengan Kotlin" - [budioktaviyan](https://github.com/budioktaviyan)
 
