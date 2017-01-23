@@ -49,6 +49,5 @@ Photos:
   - [Kotlin Home Page](http://kotlinlang.org/)
 
 - Firebase Technology for Android - [derohimat](https://github.com/derohimat)
-  - [Slides]
-  - [Demo Source Code]
+  - [Demo Source Code](https://github.com/derohimat/FirebaseAssistant)
   - [Firebase Home Page](https://firebase.google.com/)
