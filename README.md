@@ -11,6 +11,27 @@ Collections of all things that discussed on ADB meetups. Join us on [`Telegram`]
 ---
 
 ## Discussions
+
+### #4 - July 2018
+
+Ticket:
+[`https://www.dicoding.com/events/1778`](https://www.dicoding.com/events/1778)
+
+Photos: 
+[`https://photos.app.goo.gl/DoTzHAk7xjcwTtxH8`](https://photos.app.goo.gl/DoTzHAk7xjcwTtxH8)
+
+- A/B Testing menggunakan Firebase - [mhasby](https://github.com/mhasby)
+ - [Slides](https://docs.google.com/presentation/d/1iBBLGrwQwL_oVLULWetbiY1U3FBZtRYzhIigXed2zSc/edit?usp=drivesdk)
+ - [Demo]() // Belum diupload 
+
+- How to Make Android Starter Kit with Yeoman - [irfanirawansukirman](https://github.com/irfanirawansukirman)
+ - [Slides](https://drive.google.com/open?id=1SR--SDa9T6pxr9l6NmlJZc2SBH3VEvzA)
+ - [Demo](https://github.com/irfanirawansukirman/generator-adb-bandung-4)
+
+- Kotlin Puzzler - [esafirm](https://github.com/esafirm) 
+ - [Notebook](https://github.com/esafirm/Notebook/blob/master/kotlin-puzzler-adb-4/ADB%20Meetup%20%234%20-%20Kotlin%20Puzzler%20.ipynb)
+
+
 ### #3 - December 2017
 
 Ticket:
