@@ -24,7 +24,7 @@ Photos:
   - [Slides](https://docs.google.com/presentation/d/1W5SH32u_8Ftx6VNkrfImZk739aUVHFAqchZabtF9bNo/edit?usp=sharing)
   - [Demo (TBA)]()
 
-- Multiplatform Architecture - [budioktavian](https://github.com/budioktaviyan)
+- Multiplatform Architecture - [budioktaviyan](https://github.com/budioktaviyan)
 
   - [Slides](https://docs.google.com/presentation/d/1UNQEw5LoE-MpH_oBzuK2Dt3dLn_2E-MKFFs3Ae7B1PA/edit?usp=sharing)
   - [Demo](https://github.com/pink-room/kotlin-multiplatform-template)
