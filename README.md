@@ -8,6 +8,23 @@ Collections of all things that discussed on ADB meetups. Join us on [`Telegram`]
 
 ## Discussions
 
+### #6 - Desember 2018 
+
+Tiket: 
+
+[`https://makersinstitute.id/events/event?slug=adb-meetup-6-kotlin-coroutines-and-intro-to-flutter`](https://makersinstitute.id/events/event?slug=adb-meetup-6-kotlin-coroutines-and-intro-to-flutter)
+
+- Kotlin Coroutine in Action - [esafirm](https://github.com/esafirm)
+
+    - [Slides](https://docs.google.com/presentation/d/1xmD44PgGZ__UjRre-YMv915wbQahT22tKby7xiCE_o0/edit?usp=sharing)
+
+- Membuat Flutter Plugin - [hahn](https://github.com/hahn)
+
+    - [Slides](https://docs.google.com/presentation/d/1Rna5sfegBCs42Fah-ecWMDVXGPXa1KV2LtXeiEyvJp4/edit#slide=id.g4a922accec_0_0)
+    - [Demo (Toaster)](https://github.com/hahn/toaster)
+
+
+
 ### #5 - September 2018 - Android Day Bandung
 
 Photos:
