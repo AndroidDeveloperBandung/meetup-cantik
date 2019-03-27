@@ -8,6 +8,17 @@ Collections of all things that discussed on ADB meetups. Join us on [`Telegram`]
 
 ## Discussions
 
+### #7 - Februari 2019
+
+- Play with ARCore Part 1 - [derohimat](https://github.com/derohimat)
+
+    - [Slides](https://docs.google.com/presentation/d/1Ua1F-kAs1iGLnby6IIHWsvV9RwWPwnzZ0x8xYQUapkA/edit#slide=id.p)
+    - [Demo](https://github.com/derohimat/ArCoreFurniture)
+
+- All about Android Automated Testing - [reza-id](https://github.com/reza-id)
+
+    - [Slides](https://docs.google.com/presentation/d/1_u7NW3hSfLRTUJ3yp9jdWn5WNd8w9pjJ3u0Cw-FAzk8/edit#slide=id.g4f8631102d_0_28)
+
 ### #6 - Desember 2018 
 
 Tiket: 
