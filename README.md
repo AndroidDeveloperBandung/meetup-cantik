@@ -8,6 +8,21 @@ Collections of all things that discussed on ADB meetups. Join us on [`Telegram`]
 
 ## Discussions
 
+### #8 - Maret 2019
+
+Photos:
+[`https://photos.app.goo.gl/xNywkXT6p5SHvdqg9`](https://photos.app.goo.gl/xNywkXT6p5SHvdqg9)
+
+- Build Applications Faster with Android Jetpack - [gilangadhan](https://github.com/gilangadhan)
+
+    - [Slides](https://docs.google.com/presentation/d/15Bb43cBTnSPr---A8myWrjK1aH7veWhR6ewEN_gx7Wk/edit#slide=id.p)
+
+- Have Fun with Animation - [radhikayusuf](https://github.com/radhikayusuf)
+
+    - [Slides](https://docs.google.com/presentation/d/1sIIXv7I3y_6hD9u7QoJ5QRpI50Sj9iPfVPpLaFzF-oo/edit#slide=id.g4cd7bce507_0_61)
+    - Demo menyusul
+
+
 ### #7 - Februari 2019
 
 - Play with ARCore Part 1 - [derohimat](https://github.com/derohimat)
