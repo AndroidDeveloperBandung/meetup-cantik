@@ -20,7 +20,7 @@ Photos:
 - Have Fun with Animation - [radhikayusuf](https://github.com/radhikayusuf)
 
     - [Slides](https://docs.google.com/presentation/d/1sIIXv7I3y_6hD9u7QoJ5QRpI50Sj9iPfVPpLaFzF-oo/edit#slide=id.g4cd7bce507_0_61)
-    - Demo menyusul
+    - [Demo](https://github.com/radhikayusuf/animation-demo)
 
 
 ### #7 - Februari 2019
