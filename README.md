@@ -8,6 +8,28 @@ Collections of all things that discussed on ADB meetups. Join us on [`Telegram`]
 
 ## Discussions
 
+### #9 - Kotlin Everywhere Bandung
+
+- Getting Programming with Kotlin = [nrohmen](https://github.com/nrohmen)
+
+    - [Slides](https://docs.google.com/presentation/d/1ATR4BedYGXPy2Eh_HecNG5E-YBDM5Y5alNsekEY_5Ts/edit?usp=sharing)
+
+- Have Fun with Zircon - [bentinata](https://github.com/bentinata)
+
+    - [Slides](https://docs.google.com/presentation/d/1izlZlYtjpNXLXLOvLzCohhawT5J5Io05ojEoBtwNIUg/edit?usp=sharing)
+    - [Demo](https://github.com/bentinata/caves-of-zircon-tutorial)
+
+- Build DSL in Kotlin - [esafirm](https://github.com/esafirm)
+
+    - [Slides](https://docs.google.com/presentation/d/1-wji-2FQgaIaItNZW5MLV_90ZF6Jope1uOz60Si-e_Y/edit?usp=sharing)
+    - [Demo](https://github.com/esafirm/dslsample)
+
+- Implement Android Jetpack to Android Kotlin Project - [ihwanID](https://github.com/ihwanid)
+
+    - [Slides](https://docs.google.com/presentation/d/1U4_de1LiVby6rMpj58PeDsEmyqBLfFKvml538oT0loM/edit#slide=id.g62b7a9e8a8_1_103)
+
+- TBA
+
 ### #8 - Maret 2019
 
 Photos:
