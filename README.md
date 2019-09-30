@@ -12,6 +12,8 @@ Collections of all things that discussed on ADB meetups. Join us on [`Telegram`]
 
 Event: [https://www.dicoding.com/events/2449](https://www.dicoding.com/events/2449)
 
+Photos: [https://photos.app.goo.gl/1YtcWhYTLsDpbgqo7](https://photos.app.goo.gl/1YtcWhYTLsDpbgqo7)
+
 - Getting Programming with Kotlin - [nrohmen](https://github.com/nrohmen)
 
     - [Slides](https://docs.google.com/presentation/d/1ATR4BedYGXPy2Eh_HecNG5E-YBDM5Y5alNsekEY_5Ts/edit?usp=sharing)
