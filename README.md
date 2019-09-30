@@ -10,7 +10,9 @@ Collections of all things that discussed on ADB meetups. Join us on [`Telegram`]
 
 ### #9 - Kotlin Everywhere Bandung
 
-- Getting Programming with Kotlin = [nrohmen](https://github.com/nrohmen)
+Event: [https://www.dicoding.com/events/2449](https://www.dicoding.com/events/2449)
+
+- Getting Programming with Kotlin - [nrohmen](https://github.com/nrohmen)
 
     - [Slides](https://docs.google.com/presentation/d/1ATR4BedYGXPy2Eh_HecNG5E-YBDM5Y5alNsekEY_5Ts/edit?usp=sharing)
 
@@ -28,7 +30,17 @@ Collections of all things that discussed on ADB meetups. Join us on [`Telegram`]
 
     - [Slides](https://docs.google.com/presentation/d/1U4_de1LiVby6rMpj58PeDsEmyqBLfFKvml538oT0loM/edit#slide=id.g62b7a9e8a8_1_103)
 
-- TBA
+- How Unit Test Can be A Documenation - [andriiginting](https://github.com/andriiginting)
+
+    - [Slides](https://docs.google.com/presentation/d/13rWJP3P3k-KUw7pjHigdSXDmnKC9idPEj5Tdp5lYV28/edit?usp=sharing)
+
+- Mocking Library for Kotlin - [yudaoktavian](https://github.com/YudaOktavian)   
+
+    - [Slides](https://www.slideshare.net/secret/8vXibAsBJNzLIK)
+
+- Implementation of Software Design Patterns in Kotlin - [sidiqpermana](https://github.com/sidiqpermana)
+
+    - TBA
 
 ### #8 - Maret 2019
 
