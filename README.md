@@ -1,5 +1,7 @@
 ## Meetup Cantik
 
+<img src="https://raw.githubusercontent.com/AndroidDeveloperBandung/meetup-cantik/master/adb_logo.jpeg" height="168px" width="168px" alt="" />
+
 Collections of all things that discussed on ADB meetups. Join us on [`Telegram`](https://t.me/androidDevBdg)
 
 - [Discussions](#discussion)
