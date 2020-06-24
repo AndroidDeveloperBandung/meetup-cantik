@@ -4,11 +4,36 @@
 
 Collections of all things that discussed on ADB meetups. Join us on [`Telegram`](https://t.me/androidDevBdg)
 
-- [Discussions](#discussion)
+- [Discussions](#discussions)
+  * [#10 - Ngabuburit Bareng ADB](#-10---ngabuburit-bareng-adb)
+  * [#9 - Kotlin Everywhere Bandung](#-9---kotlin-everywhere-bandung)
+  * [#8 - Maret 2019](#-8---maret-2019)
+  * [#7 - Februari 2019](#-7---februari-2019)
+  * [#6 - Desember 2018](#-6---desember-2018)
+  * [#5 - September 2018 - Android Day Bandung](#-5---september-2018---android-day-bandung)
+  * [#4 - July 2018](#-4---july-2018)
+  * [#3 - December 2017](#-3---december-2017)
+  * [#2 - January 2017](#-2---january-2017)
+  * [#1 - November 2016](#-1---november-2016)
 
 ---
 
 ## Discussions
+
+### #10 - Ngabuburit Bareng ADB
+
+Event: [https://www.dicoding.com/events/3156](https://www.dicoding.com/events/3156)
+
+Youtube: [https://www.youtube.com/watch?v=3o9BLLXaDC0](https://www.youtube.com/watch?v=3o9BLLXaDC0)
+
+- Benchmarking yout Android App Code - [Javent Lienta](https://github.com/hugosvent)
+  
+  - [Slides](https://docs.google.com/presentation/d/1pqX_u0w9XGGstpYWmrN_B31gIfKy3oBfilfiWW51Dos/edit#slide=id.p)
+
+- Dynamic Feature Module for A/B Testing a New Product - [Deni Rohimat](https://github.com/derohimat)
+
+  - [Slides](https://docs.google.com/presentation/d/1A-eqFpeH2UAdhbstKwvD0lp9KXiua0J2koqYC_Q6P2A/edit#slide=id.gc6f73a04f_0_0)
+  - [Demo](https://github.com/derohimat/ADBNgabuburit-DynamicFeature)
 
 ### #9 - Kotlin Everywhere Bandung
 
