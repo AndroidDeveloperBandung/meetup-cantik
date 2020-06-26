@@ -5,6 +5,7 @@
 Collections of all things that discussed on ADB meetups. Join us on [`Telegram`](https://t.me/androidDevBdg)
 
 - [Discussions](#discussions)
+  * [#11 - ADB x Tokopedia](#11---adb-x-tokopedia)
   * [#10 - Ngabuburit Bareng ADB](#10---ngabuburit-bareng-adb)
   * [#9 - Kotlin Everywhere Bandung](#9---kotlin-everywhere-bandung)
   * [#8 - Maret 2019](#8---maret-2019)
@@ -19,6 +20,24 @@ Collections of all things that discussed on ADB meetups. Join us on [`Telegram`]
 ---
 
 ## Discussions
+
+### #12 - TBA
+
+Mau jadi pemateri? Hubungi kita langsung yaaaa
+
+### #11 - ADB x Tokopedia
+
+Event: [https://www.dicoding.com/events/3211](https://www.dicoding.com/events/3211)
+
+Youtube: [https://www.youtube.com/watch?v=l4uvm-YxDrw](https://www.youtube.com/watch?v=l4uvm-YxDrw)
+
+- Working with LiveData in Tokopedia - [Meyta Zenis](https://github.com/mzennis)
+  
+  - [Demo](https://github.com/mzennis/livedata-sample)
+
+- Clean Architecture & Development Flow at DANA - [Hanif Ibrahim](https://github.com/hanifibram)
+
+  - [Slides](https://drive.google.com/file/d/1emjGeg9JInzUP3QOMteedzc1Hk-62FpB/view)
 
 ### #10 - Ngabuburit Bareng ADB
 
