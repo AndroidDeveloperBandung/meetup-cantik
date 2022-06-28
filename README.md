@@ -5,6 +5,7 @@
 Collections of all things that discussed on ADB meetups. Join us on [`Telegram`](https://t.me/androidDevBdg)
 
 - [Discussions](#discussions)
+  * [#12 - ADB x Ajaib 2022](#12---adb-x-ajaib-2022)
   * [#11 - ADB x Tokopedia](#11---adb-x-tokopedia)
   * [#10 - Ngabuburit Bareng ADB](#10---ngabuburit-bareng-adb)
   * [#9 - Kotlin Everywhere Bandung](#9---kotlin-everywhere-bandung)
@@ -21,9 +22,23 @@ Collections of all things that discussed on ADB meetups. Join us on [`Telegram`]
 
 ## Discussions
 
-### #12 - TBA
+### #13 - TBA
 
 Mau jadi pemateri? Hubungi kita langsung yaaaa
+
+### #12 - ADB x Ajaib 2022
+
+Youtube: [https://www.youtube.com/watch?v=6JRhkHioLbE](https://www.youtube.com/watch?v=6JRhkHioLbE)
+
+Q&A: [link](https://github.com/AndroidDeveloperBandung/meetup-cantik/blob/main/res/events/adbxajaib2022/qna.md)
+
+- Faster Mobile App Iteration - [Esa Firman](http://github.com/esafirm)
+
+  - [Slides](https://docs.google.com/presentation/d/1ateOmK3XR9t50OEBdX1bTIHrjmvxA1KTZpVO6Wg0nqU/edit?usp=sharing)
+
+- Android UI Improvement for Fast Rendering - [Hartviq Baturante](https://www.linkedin.com/in/hartviq)
+
+  - [Slides](https://drive.google.com/file/d/1qOuwqswBC1_lJ2UZX-W328sCl7GtD1L3/view?usp=sharing)
 
 ### #11 - ADB x Tokopedia
 
